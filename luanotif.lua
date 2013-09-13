@@ -1,3 +1,6 @@
+-- Lua Notification
+-- by ziggear 2013.09.12
+
 luanotif = {}
 
 local objs = {}
